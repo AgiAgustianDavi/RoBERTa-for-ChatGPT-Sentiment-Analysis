@@ -7,7 +7,7 @@ import pandas as pd
 class SentimentAnalyzer:
     def __init__(self):
         # Menentukan lokasi folder model dan label kategori sentimen
-        self.model_path = "./models" 
+        self.model_path = "agiagustiandavi/Fine_tuned_RoBERTa_base_for_Sentiment_Analysis_of_ChatGPT/models" 
         self.labels = {0: "Negative", 1: "Neutral", 2: "Positive"}
 
         # Memuat tokenizer (pemecah kata) dan model AI dari folder lokal
