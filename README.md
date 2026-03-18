@@ -97,5 +97,4 @@ http://127.0.0.1:5000
 ## 📝 Catatan Penting
 
 - Pastikan file CSV/Excel memiliki kolom seperti: text, komentar, atau content.  
-- Jika tidak ada, sistem akan menggunakan kolom pertama secara otomatis.  
-"""
+- Jika tidak ada, sistem akan menggunakan kolom pertama secara otomatis. 
