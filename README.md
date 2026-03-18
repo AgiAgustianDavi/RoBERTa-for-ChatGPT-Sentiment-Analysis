@@ -26,7 +26,7 @@ Aplikasi web berbasis Flask yang dirancang untuk menganalisis sentimen teks meng
 ## 🛠️ Teknologi yang Digunakan
 
 - **Backend**: Python & Flask  
-- **AI Model**: RoBERTa (via Hugging Face Transformers)  
+- **AI Model**: Fine-tuned RoBERTa-base (via Hugging Face Transformers)  
 - **Deep Learning Framework**: PyTorch  
 - **Data Handling**: Pandas & Openpyxl  
 - **Frontend**: Bootstrap 5, FontAwesome, & Chart.js  
